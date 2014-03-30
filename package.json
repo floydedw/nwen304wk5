@@ -1,0 +1,30 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "\"This example app is so cool.\"",
+  "main": "web.js",
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/floyd-edwards/node-example.git"
+  },
+  "keywords": [
+    "[\"example\"",
+    "\"heroku\"]"
+  ],
+  "author": "\"floyd-edwards\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/floyd-edwards/node-example/issues"
+  },
+  "homepage": "https://github.com/floyd-edwards/node-example",
+  "dependencies": {
+    "logfmt": "^1.1.2",
+    "express": "^3.5.1"
+  }
+  "engines": {
+    "node": "0.10.x"
+  }
+}
